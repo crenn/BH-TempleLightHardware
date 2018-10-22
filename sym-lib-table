@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name MCU_Microchip_ATtiny-Modded)(type Legacy)(uri ${KIPRJMOD}/MCU_Microchip_ATtiny-Modded.lib)(options "")(descr ""))
+  (lib (name Regulator-Switching_MPS)(type Legacy)(uri "C:/Users/Trystan D Jones/Dropbox/Crennsmind Articles/Projects/Cosplay PCBs/Become Human Temple Light/Temple Light/Regulator-Switching_MPS.lib")(options "")(descr ""))
+  (lib (name LED-Custom)(type Legacy)(uri "C:/Users/Trystan D Jones/Dropbox/Crennsmind Articles/Projects/Cosplay PCBs/Become Human Temple Light/Temple Light/LED-Custom.lib")(options "")(descr ""))
+  (lib (name Regulator-Linear-New)(type Legacy)(uri ${KIPRJMOD}/Regulator-Linear-New.lib)(options "")(descr ""))
+)

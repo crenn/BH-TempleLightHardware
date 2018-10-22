@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name MPS_Regulators)(type KiCad)(uri ${KIPRJMOD}/MPS_Regulators.pretty)(options "")(descr ""))
+  (lib (name APA102)(type KiCad)(uri ${KIPRJMOD}/APA102.pretty)(options "")(descr ""))
+)
