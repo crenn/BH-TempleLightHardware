@@ -5,12 +5,12 @@ EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
-Comment2 ""
+Title "Cosplay Temple Light - Deroit: Become Human"
+Date "2018-10-17"
+Rev "1"
+Comp "Studio CM"
+Comment1 "Designed By:"
+Comment2 "License - CC-BY-SA v3.0"
 Comment3 ""
 Comment4 ""
 $EndDescr
@@ -1670,8 +1670,8 @@ Wire Notes Line
 	11800 7900 500  7900
 Wire Notes Line
 	11800 5650 16050 5650
-Text Notes 12800 5950 0    197  ~ 0
-Accellerometer
+Text Notes 13050 5950 0    197  ~ 0
+Accelerometer
 Wire Notes Line
 	11800 5650 11800 9950
 Text Notes 4950 8200 0    197  ~ 0
